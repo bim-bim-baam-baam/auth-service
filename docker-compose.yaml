@@ -3,7 +3,7 @@ services:
     image: postgres
     environment:
       POSTGRES_USER: bimbimbambam
-      POSTGRES_PASSWORD: bambambimbim
+      POSTGRES_PASSWORD: bimbimbambam
       POSTGRES_DB: auth_db
     ports:
       - "8003:5432"
