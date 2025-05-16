@@ -1,0 +1,10 @@
+authlib
+Flask
+flask_sqlalchemy
+pydantic
+PyJWT
+python-dotenv
+Werkzeug #Я НЕ ЕБУ ЧТО ЖЭТО
+psycopg2-binary
+dotenv
+flasgger
